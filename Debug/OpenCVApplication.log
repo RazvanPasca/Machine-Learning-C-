@@ -1,0 +1,143 @@
+﻿  OpenCVApplication.cpp
+d:\school\an 4\prs\opencvapplication.cpp(459): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\school\an 4\prs\opencvapplication.cpp(495): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\school\an 4\prs\opencvapplication.cpp(496): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\school\an 4\prs\opencvapplication.cpp(497): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+d:\school\an 4\prs\opencvapplication.cpp(506): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\school\an 4\prs\opencvapplication.cpp(507): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\school\an 4\prs\opencvapplication.cpp(508): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+d:\school\an 4\prs\opencvapplication.cpp(514): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\school\an 4\prs\opencvapplication.cpp(515): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\school\an 4\prs\opencvapplication.cpp(516): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+d:\school\an 4\prs\opencvapplication.cpp(530): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+d:\school\an 4\prs\opencvapplication.cpp(535): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\school\an 4\prs\opencvapplication.cpp(557): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\school\an 4\prs\opencvapplication.cpp(576): warning C4244: 'initializing': conversion from '_Tp' to 'int', possible loss of data
+          with
+          [
+              _Tp=double
+          ]
+d:\school\an 4\prs\opencvapplication.cpp(577): warning C4244: 'initializing': conversion from '_Tp' to 'int', possible loss of data
+          with
+          [
+              _Tp=double
+          ]
+d:\school\an 4\prs\opencvapplication.cpp(578): warning C4244: 'initializing': conversion from '_Tp' to 'int', possible loss of data
+          with
+          [
+              _Tp=double
+          ]
+d:\school\an 4\prs\opencvapplication.cpp(582): warning C4244: 'argument': conversion from '_Tp' to 'int', possible loss of data
+          with
+          [
+              _Tp=double
+          ]
+d:\school\an 4\prs\opencvapplication.cpp(621): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\school\an 4\prs\opencvapplication.cpp(626): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\school\an 4\prs\opencvapplication.cpp(642): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\school\an 4\prs\opencvapplication.cpp(643): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\school\an 4\prs\opencvapplication.cpp(677): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\school\an 4\prs\opencvapplication.cpp(678): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\school\an 4\prs\opencvapplication.cpp(679): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\school\an 4\prs\opencvapplication.cpp(714): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\school\an 4\prs\opencvapplication.cpp(853): warning C4244: 'initializing': conversion from '_Tp' to 'float', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+d:\school\an 4\prs\opencvapplication.cpp(854): warning C4244: 'initializing': conversion from '_Tp' to 'float', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+d:\school\an 4\prs\opencvapplication.cpp(860): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\school\an 4\prs\opencvapplication.cpp(882): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\school\an 4\prs\opencvapplication.cpp(884): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\school\an 4\prs\opencvapplication.cpp(886): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\school\an 4\prs\opencvapplication.cpp(914): warning C4018: '<': signed/unsigned mismatch
+d:\school\an 4\prs\opencvapplication.cpp(936): warning C4018: '<': signed/unsigned mismatch
+d:\school\an 4\prs\opencvapplication.cpp(1011): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\school\an 4\prs\opencvapplication.cpp(1094): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\school\an 4\prs\opencvapplication.cpp(1098): warning C4244: 'argument': conversion from '_Tp' to 'int', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+d:\school\an 4\prs\opencvapplication.cpp(1102): warning C4244: 'initializing': conversion from '_Tp' to 'int', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+d:\school\an 4\prs\opencvapplication.cpp(1104): warning C4244: 'argument': conversion from '_Tp' to 'int', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+d:\school\an 4\prs\opencvapplication.cpp(1152): warning C4018: '<': signed/unsigned mismatch
+d:\school\an 4\prs\opencvapplication.cpp(1165): warning C4018: '<': signed/unsigned mismatch
+d:\school\an 4\prs\opencvapplication.cpp(1176): warning C4018: '<': signed/unsigned mismatch
+d:\school\an 4\prs\opencvapplication.cpp(1177): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+d:\school\an 4\prs\opencvapplication.cpp(1320): warning C4305: '=': truncation from 'double' to '_Tp'
+          with
+          [
+              _Tp=float
+          ]
+d:\school\an 4\prs\opencvapplication.cpp(1360): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\school\an 4\prs\opencvapplication.cpp(1361): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\school\an 4\prs\opencvapplication.cpp(1409): warning C4244: 'argument': conversion from '_Tp' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+d:\school\an 4\prs\opencvapplication.cpp(1410): warning C4244: 'argument': conversion from '_Tp' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+d:\school\an 4\prs\opencvapplication.cpp(1410): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+d:\school\an 4\prs\opencvapplication.cpp(1388): warning C4101: 'last_change': unreferenced local variable
+  OpenCVApplication.vcxproj -> D:\School\an 4\PRS\Debug\OpenCVApplication.exe
+  OpenCV\dll\Debug\opencv_calib3d2413d.dll
+  OpenCV\dll\Debug\opencv_contrib2413d.dll
+  OpenCV\dll\Debug\opencv_core2413d.dll
+  OpenCV\dll\Debug\opencv_features2d2413d.dll
+  OpenCV\dll\Debug\opencv_ffmpeg2413.dll
+  OpenCV\dll\Debug\opencv_flann2413d.dll
+  OpenCV\dll\Debug\opencv_gpu2413d.dll
+  OpenCV\dll\Debug\opencv_highgui2413d.dll
+  OpenCV\dll\Debug\opencv_imgproc2413d.dll
+  OpenCV\dll\Debug\opencv_legacy2413d.dll
+  OpenCV\dll\Debug\opencv_ml2413d.dll
+  OpenCV\dll\Debug\opencv_nonfree2413d.dll
+  OpenCV\dll\Debug\opencv_objdetect2413d.dll
+  OpenCV\dll\Debug\opencv_ocl2413d.dll
+  OpenCV\dll\Debug\opencv_photo2413d.dll
+  OpenCV\dll\Debug\opencv_stitching2413d.dll
+  OpenCV\dll\Debug\opencv_superres2413d.dll
+  OpenCV\dll\Debug\opencv_video2413d.dll
+  OpenCV\dll\Debug\opencv_videostab2413d.dll
+         19 file(s) copied.
